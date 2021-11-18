@@ -1,10 +1,31 @@
-- 👋 Hi, I’m VISHAL PATIL
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-vishalpatil47/vishalpatil47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
+  
+-    I’m VISHAL PATIL
+- 👀 I like to explore new technologies and creating tech videos on YouTube.
+- 🌱 I’m currently learning python,SQL,
+-    I’m currently working on My Blog,
+-    
+- <h3><b>😄 Can Connect With Me On</b></h3>
+  </div>
+  
+<p align="center">
+  
+  <a href="https://www.instagram.com/vishalpatil_47/" target="_blank">
+  <img align="center" alt="Vishal Patil | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://twitter.com/vishal_patil47" target="_blank">
+  <img align="center" alt="Vishal Patil | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+</a> &nbsp;&nbsp;
+  <a href="https://" target="_blank">
+  <img align="center" alt="Vishal Patil | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:Vpworld47@gmail.com" >
+  <img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://">
+    <img align="center" alt="Vishal Patil| Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+</a> &nbsp;&nbsp;
+<p>
+  
+<br>
