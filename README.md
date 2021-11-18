@@ -4,7 +4,7 @@
 -    I’m VISHAL PATIL
 - 👀 I like to explore new technologies and creating tech videos on YouTube.
 - 🌱 I’m currently learning python,SQL,
--    I’m currently working on My Blog,
+-    I’m currently working on Tech News Related Blog,
 -    
 - <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
