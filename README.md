@@ -1,10 +1,7 @@
-
-  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
-  
--    I’m VISHAL PATIL
+- 👋 Hi i’m VISHAL PATIL
 - 👀 I like to explore new technologies and creating tech videos on YouTube.
 - 🌱 I’m currently learning python,SQL,
--    I’m currently working on Tech News Related Blog,
+- 👨‍💻 I’m currently working on Tech News Related Blog,
 -    
 - <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
