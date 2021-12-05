@@ -14,7 +14,7 @@
 <a href="https://twitter.com/vishal_patil47" target="_blank">
   <img align="center" alt="Vishal Patil | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
-  <a href="https://" target="_blank">
+  <a href="https://www.linkedin.com/in/vishal-patil47" target="_blank">
   <img align="center" alt="Vishal Patil | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:Vpworld47@gmail.com" >
