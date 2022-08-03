@@ -8,7 +8,7 @@
   
 <p align="center">
   
-  <a href="https://www.instagram.com/vishalpatil_47/" target="_blank">
+  <a href="https://www.instagram.com/vishalpatil__96k/" target="_blank">
   <img align="center" alt="Vishal Patil | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://twitter.com/vishal_patil47" target="_blank">
