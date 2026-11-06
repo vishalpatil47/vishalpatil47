@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 420" width="1000" height="420">
+<defs>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00F5A0"/><stop offset="0.5" stop-color="#7B2FF7"/><stop offset="1" stop-color="#00B8D9"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#151c30"/><stop offset="1" stop-color="#1b2540"/></linearGradient>
+</defs>
+<style>
+.r{opacity:0;animation:rv 14s infinite}
+@keyframes rv{0%{opacity:0;transform:translateX(-10px)}3%{opacity:1;transform:none}90%{opacity:1}95%{opacity:0}100%{opacity:0}}
+.cur{animation:bl 1s steps(2,start) infinite}
+@keyframes bl{to{visibility:hidden}}
+</style>
+<rect x="2" y="2" width="996" height="416" rx="18" fill="#0a0f1c" stroke="url(#bd)" stroke-width="2"/>
+<path d="M2 20a18 18 0 0 1 18-18h960a18 18 0 0 1 18 18V56H2z" fill="url(#bar)"/>
+<circle cx="34" cy="29" r="7" fill="#FF5F56"/><circle cx="58" cy="29" r="7" fill="#FFBD2E"/><circle cx="82" cy="29" r="7" fill="#27C93F"/>
+<text x="500" y="35" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" fill="#8B949E">vishal@dev: ~/about</text>
+<g class="r" style="animation-delay:0.4s">
+<text x="40" y="110" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17"><tspan fill="#00F5A0">vishal@dev</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#7AA2F7">~</tspan><tspan fill="#8B949E">$ </tspan><tspan fill="#FFD866">whoami</tspan></text>
+<text x="64" y="136" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17" fill="#E6EDF3">Vishal Patil  |  .NET Full Stack Developer</text></g>
+<g class="r" style="animation-delay:1.6s">
+<text x="40" y="180" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17"><tspan fill="#00F5A0">vishal@dev</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#7AA2F7">~</tspan><tspan fill="#8B949E">$ </tspan><tspan fill="#FFD866">cat focus.txt</tspan></text>
+<text x="64" y="206" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17" fill="#9FFCE0">Enterprise web apps  *  REST APIs  *  Clean N-Tier architecture</text></g>
+<g class="r" style="animation-delay:2.8s">
+<text x="40" y="250" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17"><tspan fill="#00F5A0">vishal@dev</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#7AA2F7">~</tspan><tspan fill="#8B949E">$ </tspan><tspan fill="#FFD866">cat creating.txt</tspan></text>
+<text x="64" y="276" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17" fill="#FFB4D6">Tech videos on YouTube  *  Tech news blog</text></g>
+<g class="r" style="animation-delay:4.0s">
+<text x="40" y="320" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17"><tspan fill="#00F5A0">vishal@dev</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#7AA2F7">~</tspan><tspan fill="#8B949E">$ </tspan><tspan fill="#FFD866">echo $MOTTO</tspan></text>
+<text x="64" y="346" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17" fill="#C3A6FF">"Ship it. Learn from it. Repeat."</text></g>
+<text x="40" y="388" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17"><tspan fill="#00F5A0">vishal@dev</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#7AA2F7">~</tspan><tspan fill="#8B949E">$ </tspan></text>
+<rect class="cur" x="196" y="373" width="10" height="20" fill="#00F5A0"/>
+</svg>
